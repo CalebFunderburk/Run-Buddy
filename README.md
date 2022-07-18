@@ -25,3 +25,7 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Caleb Funderburk
+
+
+
+### 02019 Run Buddy, Inc
