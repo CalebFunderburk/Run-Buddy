@@ -33,4 +33,4 @@ This program can be run through a browser using the above link to the deployed a
 
 ## Contribution
 
-Made with ❤️ by Caleb Funderburk
+Made by Caleb Funderburk
