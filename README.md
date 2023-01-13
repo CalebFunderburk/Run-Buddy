@@ -17,9 +17,9 @@ As a user looking for a personal trainer, I would like an application that allow
 
 ### Features
 
-1. Users can use a form to reach out to the Run Buddy team for more information or to ask any questions that they might have.
-2. The application displays information explaining further what Run Buddy does and what to expect from one of their sessions.
-3. The application has an embedded map showing where the area in which Run Buddy opperates.
+* Users can use a form to reach out to the Run Buddy team for more information or to ask any questions that they might have.
+* The application displays information explaining further what Run Buddy does and what to expect from one of their sessions.
+* The application has an embedded map showing where the area in which Run Buddy opperates.
 
 ## Deployed Application
 
