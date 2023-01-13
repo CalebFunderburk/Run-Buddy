@@ -23,7 +23,7 @@ As a user looking for a personal trainer, I would like an application that allow
 
 ## Deployed Application
 
-https://lernantino.github.io/run-buddy/
+<a href="https://lernantino.github.io/run-buddy/" target="_blank">Click here</a> to view this application.
 
 ## Installation
 
