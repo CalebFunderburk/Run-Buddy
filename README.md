@@ -1,6 +1,6 @@
 # Run Buddy, Inc
 
-## About the App
+## About this App
 
 ### Description
 
